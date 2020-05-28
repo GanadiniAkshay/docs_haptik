@@ -173,7 +173,7 @@ For certain permissions, we need verifications from Facebook. There are three co
   2. pages_user_timezone permission:
 
       - Timezone of a user is required to greet the user appropriately
-          - For ex: If the user greets the bot "Good Morning", the bot will greet back the user based in user's timezone 
+          - For ex: If the user greets the bot "Good Morning", the bot will greet back the user based on user's timezone 
       
       - pages_user_timezone grants your app access to user's timezone through the page your app is connected to
       
@@ -187,9 +187,8 @@ For certain permissions, we need verifications from Facebook. There are three co
       - Facebook Messenger review team manually verifies your bot and gives permission accordingly.
 
       - Refer to this Facebook Documentation to learn more - [Submitting your Messenger Bot](https://developers.facebook.com/docs/messenger-platform/app-review/).
-
+      
       - > When you share your bot for permission, there is a testing freeze. No one can test the bot on the facebook page.
-
 
   3. Business Verification:
 
